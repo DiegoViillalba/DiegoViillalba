@@ -23,7 +23,7 @@
 
 ### Contact with me 📝
 
-[<img align="left" alt="bilgehangecici | Instagram" width="40px" src="https://thumbs.gfycat.com/OrnateOrneryFoal-max-1mb.gif" />][https://www.instagram.com/diegoi_io/]
+<img align="left" alt="bilgehangecici | Instagram" width="40px" src="https://thumbs.gfycat.com/OrnateOrneryFoal-max-1mb.gif" /> [https://www.instagram.com/diegoi_io/]
 
 
 ---
