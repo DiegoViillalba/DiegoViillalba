@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **diego.villalba@ciencias.unam.mx**
 
-- ⚡ Fun fact **I love to do astrophotography**
+- ⚡ Fun fact **I love to do astrophotography and volunteering**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
