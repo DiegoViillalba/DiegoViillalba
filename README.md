@@ -4,10 +4,10 @@
 
 ## I'm a physics Student  
 
-- 🛰 I’m currently working on learning new interesting things.
-- 📚 I’m currently learning everything about Frontend and Backend technologies 😅
+- 🛰 I’m currently working on computational astrophysics.
+- 🪐 I've worked in Machine learning related projects and N-body symulations aplied to astrophysics 
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ Fun fact: I love to play soccer ⚽️.
+- ⚡ Fun fact: I love to do astrophotography and to play soccer ⚽️.
 
 ---
 
@@ -24,7 +24,7 @@
 ### Contact with me 📝
 
 <img align="left" alt="bilgehangecici | Instagram" width="40px" src="https://thumbs.gfycat.com/OrnateOrneryFoal-max-1mb.gif" /> [https://www.instagram.com/diegoi_io/]
-
+<img align="left" alt="bilgehangecici | Instagram" width="40px" src="https://static-00.iconduck.com/assets.00/mail-icon-2018x2048-0bkdtuf1.png" /> [diego.villalba@ciencias.unam.mx]
 
 ---
 
