@@ -2,7 +2,7 @@
 <h3 align="center">Student of B.S. Physics at Faculty of sciences UNAM, México</h3>
 
 - 🔭🪐 I’m currently working on **Computational Astrophysics**
-❄️
+  
 - 🌱 I’m currently learning **Fortran**
 
 - 🌎 I’m looking to collaborate on **Machine Learning astrophysics projects**
