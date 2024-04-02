@@ -1,4 +1,4 @@
-<h1 align="center">I'm Diego Villalba</h1>
+<h1 align="center">Hi 🙌🏻, I'm Diego Villalba</h1>
 <h3 align="center">Student of B.S. Physics at Faculty of sciences UNAM, México</h3>
 
 - 🔭🪐 I’m currently working on **Computational Astrophysics**
