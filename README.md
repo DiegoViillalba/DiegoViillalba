@@ -2,7 +2,7 @@
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-<h3 align="center">Student of B.S. Physics at Faculty of sciences UNAM, México</h3>
+<h3 align="center">Student of B.S. Physics at Faculty of sciences, at Universidad Naional Autónoma de México (UNAM) México</h3>
 
 [![Linkedin Badge](https://img.shields.io/badge/-DiegoVillalba-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-antonio-villalba-gonzález-8983a121b/)](
 https://www.linkedin.com/in/diego-antonio-villalba-gonzález-8983a121b/)
